@@ -6,6 +6,8 @@ categories: coding references
 ---
 - [Atom Basics] [atom-basics]
 - [Markdown] [markdown]
+- [Regex Practise] [regex]
 
+[regex]:https://regexone.com/
 [atom-basics]:http://flight-manual.atom.io/getting-started/sections/atom-basics/
 [markdown]:https://en.support.wordpress.com/markdown-quick-reference/
