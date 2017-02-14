@@ -27,5 +27,9 @@ categories: tech read
 ### [JavaScript Callback Mechanism][callback]
 ![callback]({{ site.url }}/assets/callback.png)
 
+### [Li Feifei Ted Talk][ml]
+![ml]({{ site.url}}/assets/convolutional-neural-network.png)
+
 [jvm-gc]: https://blog.codecentric.de/en/2013/01/useful-jvm-flags-part-6-throughput-collector/
 [callback]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+[ml]: https://www.youtube.com/watch?v=40riCqvRoMs
