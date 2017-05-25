@@ -16,4 +16,4 @@ categories: markdown
   - Use -> to call functions for a pointer variable
     - (*p).getSalary() is the same with p->getSalary()
 
-[jvm-gc]: http://www.horstmann.com/ccj2/ccjapp3.html
+[link]: http://www.horstmann.com/ccj2/ccjapp3.html
