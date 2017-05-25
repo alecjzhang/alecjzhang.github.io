@@ -11,9 +11,9 @@ categories: markdown
   - reference represents the physical location of the variable
   - use dot to call functions of a object variable
 - Pointer is a kind of a variable used to point to an address of another object
-  - Employee* p = new Employee("alec", 29);
-  - Employee* s = &boss;
+  - `Employee* p = new Employee("alec", 29);`
+  - `Employee* s = &boss;`
   - Use -> to call functions for a pointer variable
-    - (*p).getSalary() is the same with p->getSalary()
+    - `(*p).getSalary()` is the same with `p->getSalary()`
 
 [link]: http://www.horstmann.com/ccj2/ccjapp3.html
