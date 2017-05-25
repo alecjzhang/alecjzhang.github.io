@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Great learning c++ article for Java developers"
-date:   2017-05-24
+date:   2017-05-25
 categories: markdown
 ---
 ### [Moving from Java to C++][link]
