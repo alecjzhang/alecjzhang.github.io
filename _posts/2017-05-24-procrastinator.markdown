@@ -7,5 +7,4 @@ categories: markdown
 ### [Inside the mind of a master Procrastinator][video]
 ![video]({{ site.url }}/assets/procrastinator.png)
 
-
 [video]: https://www.youtube.com/watch?v=arj7oStGLkU
